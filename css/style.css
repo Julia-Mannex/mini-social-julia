@@ -8,12 +8,12 @@ body {
 header {
   text-align: center;
   padding: 20px;
-  border-bottom: 1px solid #1f3d2b;
+  border-bottom: 1px solid #000000;
 }
 
 .logo {
   font-family: 'Pacifico', cursive;
-  color: #d4af37;
+  color: #e0a7c4e0;
   font-size: 40px;
 }
 
@@ -49,11 +49,11 @@ header {
 
 .name {
   font-weight: bold;
-  color: #d4af37;
+  color: #e96ab4;
 }
 
 .username {
-  color: #888;
+  color: #ebc9e6;
   margin-left: 5px;
 }
 
@@ -75,11 +75,11 @@ button {
 }
 
 button:hover {
-  background-color: #2e5c40;
+  background-color: #e2b8d4;
 }
 
 .comments {
-  border-top: 1px solid #1f3d2b;
+  border-top: 1px solid #dfc0d7;
   padding-top: 15px;
 }
 
