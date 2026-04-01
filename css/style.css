@@ -49,11 +49,11 @@ header {
 
 .name {
   font-weight: bold;
-  color: #e96ab4;
+  color: #e0a7c4e0;
 }
 
 .username {
-  color: #ebc9e6;
+  color: #e0a7c4e0;
   margin-left: 5px;
 }
 
@@ -66,7 +66,7 @@ header {
 }
 
 button {
-  background-color: #1f3d2b;
+  background-color: #e0a7c4e0;
   color: #fff;
   border: none;
   padding: 8px 15px;
@@ -75,11 +75,11 @@ button {
 }
 
 button:hover {
-  background-color: #e2b8d4;
+  background-color: #e0a7c4e0;
 }
 
 .comments {
-  border-top: 1px solid #dfc0d7;
+  border-top: 1px solid #e0a7c4e0;
   padding-top: 15px;
 }
 
